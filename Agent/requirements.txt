@@ -1,0 +1,12 @@
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.28.0
+jieba>=0.42.1
+tqdm>=4.64.0
+pydantic>=2.0.0
+pathlib2>=2.3.0
+volcenginesdkarkruntime>=1.0.0
+# 向量数据库依赖 (准备迁移到 Milvus + cuvs/GPU)
+# pymilvus>=2.3.0
+# cupy-cuda12x>=12.0.0  # 根据CUDA版本选择
+
