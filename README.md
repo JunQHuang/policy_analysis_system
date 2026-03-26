@@ -1,6 +1,8 @@
 # policy_analysis_system📖 项目简介
 
 本项目是一个面向金融投资领域的端到端政策分析智能系统，融合了**RAG（检索增强生成）**、**向量数据库**、**大语言模型**和**Agent工作流**等前沿技术。系统从政策文档爬取、解析、向量化存储，到智能检索、语义分析、投资建议生成，实现了政策分析的全流程自动化。
+例如：
+<img width="1089" height="1455" alt="image" src="https://github.com/user-attachments/assets/e3c4d39f-fe8a-41e6-b92d-6756a8212599" />
 
 ### 技术亮点
 
